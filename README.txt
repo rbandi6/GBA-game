@@ -1,7 +1,7 @@
 Rescue Princess Peach
 
 How the game works:
-- This purpose of this game is for the player (ash) to catch pikachu
+- The purpose of this game is for the player (ash) to catch pikachu
 - if the poke ball touches the pikachu the game ends
 - Additionally, there is timer of 20 seconds under which pikachu needs to be caught to win the game or else you loose
 
